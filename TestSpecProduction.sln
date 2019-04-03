@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSpecProduction", "TestSpecProduction\TestSpecProduction.csproj", "{580D4BA9-E320-4792-970D-3D7C318FF8F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gurock.TestRail", "testrail-api-master\testrail-api-master\dotnet\Gurock.TestRail.csproj", "{2162E7EE-ED4C-4C41-8E21-66976AB11D1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580D4BA9-E320-4792-970D-3D7C318FF8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580D4BA9-E320-4792-970D-3D7C318FF8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580D4BA9-E320-4792-970D-3D7C318FF8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580D4BA9-E320-4792-970D-3D7C318FF8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2162E7EE-ED4C-4C41-8E21-66976AB11D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2162E7EE-ED4C-4C41-8E21-66976AB11D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2162E7EE-ED4C-4C41-8E21-66976AB11D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2162E7EE-ED4C-4C41-8E21-66976AB11D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {802C21ED-7722-4632-9BFC-8E1746216A8A}
+	EndGlobalSection
+EndGlobal
